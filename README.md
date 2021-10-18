@@ -29,3 +29,4 @@ Now the voter can login with its given credentials and caste vote.
 
 Now, the admin can have a check on the total votes.
 ![image](https://user-images.githubusercontent.com/63534263/137681164-a2af0160-649b-4cce-938e-78415cf9e2b5.png)
+
